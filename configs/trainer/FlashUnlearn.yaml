@@ -1,0 +1,8 @@
+defaults:
+  - finetune
+
+handler: FlashUnlearn
+method_args:
+  filter_rank: 64
+  filter_strength: 1.2
+  discriminant_method: "fisher"
