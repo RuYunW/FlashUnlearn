@@ -48,7 +48,7 @@ Instead of costly retraining, it **isolates and suppresses a low-dimensional “
 
 
 ## 🏆 Contributions
-1. **Training-Free Paradigm** – First to achieve robust unlearning without retraining.  
-2. **Subspace Mechanism** – Dynamic, context-aware forgetting via hidden-state remapping.  
-3. **Efficiency** – Competitive results with **~10×** lower compute cost.
+1. **Training-Free Paradigm** 
+2. **Subspace Mechanism** 
+3. **Efficiency** 
 
